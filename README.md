@@ -9,7 +9,7 @@ Any modifications or suggestions for the solutions are appreciated.
 | --- | --- |
 | Mean Variance and Standard Deviation | [Solution](https://github.com/krishnaduttPanchagnula/Freecodecamp_Data-Analysis-with-Python/tree/main/Mean-Variance-Standard%20Deviation%20Claucaltor) | 
 | Demographic Data Visualizer | [Solution](link1)
-| Medical Data Visualizer | [Solution] (link 2) |
+| Medical Data Visualizer | [Solution](link 2) |
 | Page View Time Series Visualizer | [Solution](link3) |
 | Sea Level Predictor | [Solution](link4) |
 
