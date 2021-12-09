@@ -1,4 +1,4 @@
-# FreeCodeCamp - Data Analysis with Python :snake:
+# FreeCodeCamp - Data Analysis with Python 
 My Solutions to the course offered in [FreeCodeCamp](https://www.freecodecamp.org/) for Data Analysis with Python.
 
 ```
